@@ -23,7 +23,7 @@ Vienna, Austria, 2019
 ### Thanks!
 @snapend
 
-[https://apis.acdh-dev.oeaw.ac.at](https://apis.acdh-dev.oeaw.ac.at)
+[https://apis.acdh.oeaw.ac.at](https://apis.acdh.oeaw.ac.at)
 
 [https://histogis.acdh.oeaw.ac.at](https://histogis.acdh.oeaw.ac.at)
 
