@@ -7,7 +7,7 @@
 
 @snap[south span-100]
 @ul[list-spaced-bullets text-07]
-- Problem: No accurate gazeteers for historic places
+- Problem: No accurate gazetteers for historic places
 - But: Several for nowadays
 - \>\>\> HistoGIS:
 	+ Temporized Historic shapefiles

@@ -27,6 +27,8 @@ Vienna, Austria, 2019
 
 [https://histogis.acdh.oeaw.ac.at](https://histogis.acdh.oeaw.ac.at)
 
+[https://apis-hub.acdh-dev.oeaw.ac.at/networks](https://apis-hub.acdh-dev.oeaw.ac.at/networks)
+
 [github.com/acdh-oeaw/apis-core](https://github.com/acdh-oeaw/apis-core)
 
 [gitpitch.com/sennierer/apis_conference_2019/master](https://gitpitch.com/sennierer/apis_conference_2019/master)
